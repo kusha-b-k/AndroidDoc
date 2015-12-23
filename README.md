@@ -1,3 +1,3 @@
-# AndroidDo
+# AndroidDoc
 androidDoc is an android app
 
