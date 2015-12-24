@@ -1,5 +1,5 @@
 # AndroidDoc
-androidDoc is an android app
+android doc app
 
 
 #screenshot
