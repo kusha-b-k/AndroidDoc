@@ -1,5 +1,5 @@
 # AndroidDoc
-android application doc app,  apple mac os  style 
+android application doc app,  OS X style
 
 
 #screenshot
